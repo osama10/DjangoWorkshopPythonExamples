@@ -1,5 +1,5 @@
 # Django Workshop Python Examples
-Some basic Python stuff before exploring the Django framwork at Django Workshop that I have conducted at NIC karachi on 12th, 13th and 14th october.
+Some basic Python stuff before exploring the Django framwork at Django Workshop that I have conducted at NIC karachi on 12th, 13th and 14th october 2018.
 
 The topics that are covered here are 
 - Condionals
