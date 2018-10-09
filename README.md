@@ -7,7 +7,7 @@ The topics that are covered here are
 - functions
 - OOP in Python
 
-You can find all the slides of workshop [**here**]()
+You can find all the slides of workshop [**here**](https://drive.google.com/open?id=1HzHc_5-DVv9bbQ2LDJADp-zob5_tHePP)
 
 For any information or query feel free to contact @ osama.binbashir@yahoo.com
 
